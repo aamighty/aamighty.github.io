@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I’m a NY based data scientist, with experience with Data Modeling, Machine Learning, Data Mining, Webscraping, and Natural Language Processing using Python, SQL, Git and Excel.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm also an avid sewist & crocheter who watches an obscene amount of television.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ashley.mighty@gmail.com](mailto:ashley.mighty@gmail.com)
